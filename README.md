@@ -13,4 +13,10 @@
 <img width="949" height="175" alt="image" src="https://github.com/user-attachments/assets/5005b3c3-d4f5-483a-b4f5-4e4a106e8e0c" />
 <img width="1429" height="512" alt="image" src="https://github.com/user-attachments/assets/660bab34-2848-4ed7-940e-4da360175b63" />
 
+# e. Implement a feature by creating a new branch called ‘feature/sqrt’. 
+<img width="572" height="47" alt="image" src="https://github.com/user-attachments/assets/ba4a5d39-3229-4677-915e-0d4b120bc6ba" />
+
+# f. Add the ‘sqrt’ code to it.
+<img width="647" height="443" alt="image" src="https://github.com/user-attachments/assets/22345e91-e1cf-4854-9c8c-fb5f3e03338e" />
+
 
