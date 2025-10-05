@@ -37,13 +37,12 @@
 
 # k. Finally, do the testing in the ‘dev’ branch itself and merge it into the ‘main’ branch and create a ‘version 2’ release.
 <img width="615" height="130" alt="image" src="https://github.com/user-attachments/assets/f779dac2-cf98-456c-9bc3-4d93a1dc6164" />
+<img width="1430" height="689" alt="image" src="https://github.com/user-attachments/assets/0c2abe86-8582-4707-9afb-c6570c7efa5f" />
+<img width="1497" height="363" alt="image" src="https://github.com/user-attachments/assets/e299dbd8-59c7-4042-8945-f887b9f138f2" />
+<img width="1511" height="685" alt="image" src="https://github.com/user-attachments/assets/413f8f80-a89e-4d01-8fa8-6a54b0ee62c3" />
 
 
 
-
-
-# While you are working on this feature, imagine that one critical bug is reported in the main branch, and you need to switch back to the ‘dev’ branch, create fixes, and apply them while keeping your ‘feature/sqrt’ branch up-to-date. For this, you need to create
-<img width="737" height="419" alt="image" src="https://github.com/user-attachments/assets/f900f10a-602a-4403-864f-765791ce0a43" />
 
 
 
