@@ -9,4 +9,8 @@
 
 # c. Merge this branch with the main branch and make a release of version 1 of the ‘calculator plus app’.
 <img width="542" height="307" alt="image" src="https://github.com/user-attachments/assets/97913b41-2f66-457f-bd0c-41285b6716ee" />
+<img width="661" height="184" alt="image" src="https://github.com/user-attachments/assets/a5356fab-6e0c-4ace-87fb-40593eeb5074" />
+<img width="949" height="175" alt="image" src="https://github.com/user-attachments/assets/5005b3c3-d4f5-483a-b4f5-4e4a106e8e0c" />
+<img width="1429" height="512" alt="image" src="https://github.com/user-attachments/assets/660bab34-2848-4ed7-940e-4da360175b63" />
+
 
