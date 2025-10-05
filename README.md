@@ -44,8 +44,14 @@
 # Q.2: For a project that deals with large binary files, integrate Git LFS (Large File Storage) to handle these files efficiently. Demonstrate how to add, commit, and push binary files to the repository, ensuring they are tracked by Git LFS correctly. Clone the repository on another machine to verify that the binary files are downloaded correctly.
 <img width="744" height="326" alt="image" src="https://github.com/user-attachments/assets/23c9fc93-b7aa-4102-bb1f-55c0845c25d1" />
 <img width="783" height="83" alt="image" src="https://github.com/user-attachments/assets/aec1d65a-455e-409b-9a99-c01e3765a421" />
+
 ## --uploaded large file
+
 <img width="761" height="768" alt="image" src="https://github.com/user-attachments/assets/6b447199-c2ad-4619-99d3-153c6c69918d" />
+
+## -- download large file on other machine
+<img width="707" height="544" alt="image" src="https://github.com/user-attachments/assets/1a99cd0d-11c3-42ed-bcf4-ffc9df1459b8" />
+
 
 
 
