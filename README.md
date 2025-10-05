@@ -36,7 +36,7 @@
 <img width="1447" height="685" alt="image" src="https://github.com/user-attachments/assets/c3b70a2c-8a8b-4d80-9015-5343a547b443" />
 
 # k. Finally, do the testing in the ‘dev’ branch itself and merge it into the ‘main’ branch and create a ‘version 2’ release.
-<img width="644" height="134" alt="image" src="https://github.com/user-attachments/assets/43390cd2-9ff8-40b1-b613-c869c392311d" />
+<img width="615" height="130" alt="image" src="https://github.com/user-attachments/assets/f779dac2-cf98-456c-9bc3-4d93a1dc6164" />
 
 
 
