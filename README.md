@@ -52,6 +52,93 @@
 ## -- download large file on other machine
 <img width="707" height="544" alt="image" src="https://github.com/user-attachments/assets/1a99cd0d-11c3-42ed-bcf4-ffc9df1459b8" />
 
+# Q.3: In this same GitHub repository, create a new branch ‘geometry-calculator’, we'll work on a simple Python program that calculates the area of a circle and the area of a rectangle. We'll use Git stash to switch between working on multiple features (calculating circle area and calculating rectangle area) without committing incomplete changes.
+
+<img width="753" height="256" alt="image" src="https://github.com/user-attachments/assets/049e767d-1c81-40fd-a5ea-0f2b52d3fc3f" />
+<img width="713" height="223" alt="image" src="https://github.com/user-attachments/assets/5c05bd3f-d3a3-4beb-9b6a-10428eb5fbac" />
+
+# Workflow Steps:
+
+## a. Create a New Branch:
+
+## - Create a new branch named "feature/circle-area" to work on the circle area feature
+<img width="685" height="108" alt="image" src="https://github.com/user-attachments/assets/48314da6-5a7e-4591-8d49-1b24a485913b" />
+
+## b. Stash Changes for Circle Area Feature:
+
+## - Before committing the changes, stash them using git stash to save the incomplete feature implementation.
+
+## - Verify that the working directory is clean
+
+<img width="752" height="219" alt="image" src="https://github.com/user-attachments/assets/d9c6ab09-c565-4f21-9af8-7c6473fb83e4" />
+
+## c. Create a New Branch for Rectangle Area Feature:
+
+## - Create a new branch named "feature/rectangle-area" to work on the rectangle area
+
+<img width="707" height="79" alt="image" src="https://github.com/user-attachments/assets/1fb706b2-baa7-4328-9143-c42faade2a77" />
+
+## d. Stash Changes for Rectangle Area Feature:
+
+## - Before committing the changes, stash them using git stash to save the incomplete feature implementation.
+
+## - Verify that the working directory is clean
+
+<img width="846" height="239" alt="image" src="https://github.com/user-attachments/assets/54227b35-3168-41a1-a2fd-c07ca628a20e" />
+
+## e. Switch Back to Circle Area Branch:
+
+## - Switch back to the "feature/circle-area" branch to continue working on the circle area feature.
+<img width="681" height="38" alt="image" src="https://github.com/user-attachments/assets/60c87138-233b-4ffc-8603-2f049e037fc9" />
+
+
+## - Retrieve the stashed changes
+<img width="547" height="33" alt="image" src="https://github.com/user-attachments/assets/ccba1cda-3750-4e57-ae54-d3cdab0cdce8" />
+<img width="755" height="98" alt="image" src="https://github.com/user-attachments/assets/5394253f-79ca-4373-9f9c-3ec0541bc4b8" />
+
+## - Complete the circle area feature implementation and save the changes. 
+<img width="655" height="170" alt="image" src="https://github.com/user-attachments/assets/4e1a506f-2507-4c84-912b-7453dbf6f90d" />
+<img width="770" height="159" alt="image" src="https://github.com/user-attachments/assets/708168b6-f416-4934-b9ae-69edf3711c1d" />
+
+
+## f. Commit and Push Circle Area Feature:
+<img width="902" height="308" alt="image" src="https://github.com/user-attachments/assets/e1cc4245-50db-4c88-a773-2a50a0f08eff" />
+
+## g. Switch Back to Rectangle Area Branch:
+
+## - Switch back to the "feature/rectangle-area" branch to continue working on the rectangle area feature.
+<img width="861" height="34" alt="image" src="https://github.com/user-attachments/assets/6a9077ae-165f-4887-80ab-7b10712411af" />
+
+
+## - Retrieve the stashed changes
+<img width="574" height="23" alt="image" src="https://github.com/user-attachments/assets/22ed7aa4-ea11-45c5-a8f6-334f018024fc" />
+<img width="511" height="57" alt="image" src="https://github.com/user-attachments/assets/19236508-a67d-479b-8c24-8d6374209d94" />
+
+## - Complete the rectangle area feature implementation and save the changes. 
+<img width="829" height="138" alt="image" src="https://github.com/user-attachments/assets/305c0df4-00e6-4dce-ab21-75b963c13075" />
+<img width="803" height="114" alt="image" src="https://github.com/user-attachments/assets/37b6dd95-fab2-46f5-a539-89ce9018e62e" />
+
+## h. Commit and Push Rectangle Area Feature
+<img width="974" height="291" alt="image" src="https://github.com/user-attachments/assets/a36d5c60-8d1d-435d-88f3-b0c52277a040" />
+
+## i. Create Pull Requests:
+
+## - Create a pull request to the ‘dev’ branch.
+
+<img width="1503" height="846" alt="image" src="https://github.com/user-attachments/assets/08239b14-c5d7-4d76-ab03-e5ac9dc0a7e6" />
+
+## j. Review and Merge
+
+## - Have another team member or reviewer review your pull requests. - After receiving approval, merge both pull requests into the main branch.
+
+
+
+
+
+
+
+
+
 
 
 
