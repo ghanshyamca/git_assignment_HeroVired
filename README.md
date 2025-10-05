@@ -9,3 +9,8 @@
 
 # c. Merge this branch with the main branch and make a release of version 1 of the ‘calculator plus app’.
 
+# While you are working on this feature, imagine that one critical bug is reported in the main branch, and you need to switch back to the ‘dev’ branch, create fixes, and apply them while keeping your ‘feature/sqrt’ branch up-to-date. For this, you need to create
+<img width="737" height="419" alt="image" src="https://github.com/user-attachments/assets/f900f10a-602a-4403-864f-765791ce0a43" />
+
+
+
