@@ -131,6 +131,7 @@
 
 ## - Have another team member or reviewer review your pull requests. - After receiving approval, merge both pull requests into the main branch.
 
+<img width="1497" height="853" alt="image" src="https://github.com/user-attachments/assets/1b7d7b01-5e99-4c5a-82c3-5dc1564d452b" />
 
 
 
